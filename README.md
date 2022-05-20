@@ -1,11 +1,11 @@
 # AvdanOS React Component Library
 
 ## Getting Started
-#### **Install**
+**Install with [npm](https://npmjs.org/)**
 ```bash
 npm install avdan
 ```
-or 
+***or with [yarn](https://yarnpkg.com/)***
 ```bash
 yarn add avdan
 ```
