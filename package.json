@@ -1,6 +1,6 @@
 {
   "name": "avdan",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A design system built for AvdanOS. Available for everyone.",
   "scripts": {
     "rollup": "rollup -c",
