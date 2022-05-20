@@ -21,7 +21,7 @@
   <h3 align="center">AvdanOS <strong>React Component Library</strong></h3>
 
   <p align="center">
-    The OS answer to the OS problem.
+    The official react ui components for AvdanOS.
     <br />
     <a href="https://avdan-os.github.io"><ins><strong>Getting Started »</strong></ins></a>
     ·
