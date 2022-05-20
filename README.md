@@ -1,4 +1,40 @@
-# AvdanOS React Component Library
+<div id="top"></div>
+
+<div align="center">
+  
+  [![Contributors][contributors-shield]][contributors-url]
+  [![Forks][forks-shield]][forks-url]
+  [![Stargazers][stars-shield]][stars-url]
+  [![Issues][issues-shield]][issues-url]
+  [![MIT License][license-shield]][license-url]
+  
+</div>
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/avdan-os/AvdanOS">
+    <img src="https://yt3.ggpht.com/Y2utyqID6yqk9qCmocYB0yQIIeyutFne9S9Iuzwc1oIcj638T1H78yftOSemdTsx5sprv29TmQ=s88-c-k-c0x00ffffff-no-rj" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">AvdanOS <strong>React Component Library</strong></h3>
+
+  <p align="center">
+    The OS answer to the OS problem.
+    <br />
+    <a href="https://avdan-os.github.io"><ins><strong>Getting Started »</strong></ins></a>
+    ·
+    <a href="https://github.com/avdan-os/AvdanOS"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://dynamicos.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/Avdan-OS/AvdanOS/issues/new?assignees=&labels=&template=bug_report.md">Report Bug</a>
+    ·
+    <a href="https://github.com/Avdan-OS/AvdanOS/issues/new?assignees=&labels=&template=feature_request.md">Request Feature</a>
+  </p>
+</div>
 
 ## Getting Started
 **Install with [npm](https://npmjs.org/)**
@@ -113,4 +149,15 @@ npm run build-storybook
 - [ ] whatsnew
 - [ ] alert
 
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/npm/v/avdan?style=for-the-badge
+[contributors-url]: https://github.com/avdan-os/AvdanOS/graphs/contributors
+[forks-shield]: https://img.shields.io/snyk/vulnerabilities/npm/avdan?color=blue&style=for-the-badge
+[forks-url]: https://github.com/avdan-os/AvdanOS/network/members
+[stars-shield]: https://img.shields.io/github/stars/avdan-os/AvdanOS?style=for-the-badge
+[stars-url]: https://github.com/avdan-os/AvdanOS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/avdan-os/AvdanOS?style=for-the-badge
+[issues-url]: https://github.com/avdan-os/AvdanOS/issues
+[license-shield]: https://img.shields.io/badge/LICENSE-MIT-orange?style=for-the-badge&logo=github
+[license-url]: https://github.com/avdan-os/AvdanOS/blob/master/LICENSE
 #### https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe
