@@ -17,7 +17,7 @@
 <div align='center'>
 
   <a href='https://github.com/avdan-os/AvdanOS'>
-    <img src='./static/assets/logo/render-dark.svg' alt='Logo' width='80' height='80'>
+    <img src='./static/android-chrome-512x512.png' alt='Logo' width='80' height='80'>
   </a>
 
   <h3 align='center'>AvdanOS <strong>Svelte Component Library</strong></h3>
