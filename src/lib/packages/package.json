@@ -1,9 +1,9 @@
 {
 
-    "name": "@advan/components",
+    "name": "@Avdan/components",
     "description": "A design system built for AvdanOS. Available for everyone.",
 	"repository": "https://github.com/Avdan-OS/web-components.git",
-    "author": "Advan-OS developers",
+    "author": "Avdan-OS developers",
 	"version": "0.0.1",
 
 	"main": "index.js",
