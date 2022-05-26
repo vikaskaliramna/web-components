@@ -18,10 +18,10 @@
     <img src="https://yt3.ggpht.com/Y2utyqID6yqk9qCmocYB0yQIIeyutFne9S9Iuzwc1oIcj638T1H78yftOSemdTsx5sprv29TmQ=s88-c-k-c0x00ffffff-no-rj" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">AvdanOS <strong>React Component Library</strong></h3>
+  <h3 align="center">AvdanOS <strong>Svelte Component Library</strong></h3>
 
   <p align="center">
-    The official react ui components for AvdanOS.
+    The official svelte ui components for AvdanOS.
     <br />
     <a href="https://avdan-os.github.io"><ins><strong>Getting Started »</strong></ins></a>
     ·
@@ -160,4 +160,3 @@ npm run build-storybook
 [issues-url]: https://github.com/avdan-os/AvdanOS/issues
 [license-shield]: https://img.shields.io/badge/LICENSE-MIT-orange?style=for-the-badge&logo=github
 [license-url]: https://github.com/avdan-os/AvdanOS/blob/master/LICENSE
-#### https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe
