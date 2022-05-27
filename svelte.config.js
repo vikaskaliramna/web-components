@@ -23,7 +23,16 @@ const CustomConfiguration = {
 
 		kit : {
 
-				adapter: SvelteAdapter()
+				adapter: SvelteAdapter(),
+
+                files: {
+
+                    template: 'src/application.html',
+                    assets: 'src/static',
+                    lib: 'src/lib',
+                    routes: 'src/routes',
+
+                },
 
 		}
 
